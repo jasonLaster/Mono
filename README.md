@@ -3,6 +3,14 @@
 Sample mono repo that shows how an application could have local
 packages that are not published to npm.
 
+Steps to try it out:
+
+1. `git clone https://github.com/jasonLaster/Mono`
+2. `npm install`
+3. `node src/main`
+
+:star2: :star:
+
 #### Directory Structure
 
 - `src` application directory
